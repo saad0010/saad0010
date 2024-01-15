@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact i love coding,watching movies ,playing games
 
 -->
-
+<!--
 # Connect with me:
 
-<!--
+
 - https://codepen.io/saad0010
 - https://twitter.com/saadappdev
 - https://www.instagram.com/
